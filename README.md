@@ -81,5 +81,3 @@ pip install numpy pandas matplotlib tensorflow
 
 
 ---
-
-Feel free to modify this template to best suit your project specifics!
