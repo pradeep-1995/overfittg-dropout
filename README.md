@@ -1,5 +1,3 @@
-Here's a sample README documentation for your GitHub repository:
-
 ---
 
 # Neural Network Regression with Dropout Comparison
